@@ -16,7 +16,7 @@ gem 'pg', '~> 0.18.2', group: :production
 gem 'carrierwave'
 gem 'fog', '~> 1.31.0'
 gem 'figaro', '~> 1.1.1'
-gem "mini_magick"
+gem 'mini_magick'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
